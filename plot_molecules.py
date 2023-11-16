@@ -71,6 +71,8 @@ plt.legend(fontsize=14, loc = 'upper right')
 
 plt.show()
 
+ENDO ENDO COMI O CU DE QUEM TA LENDO
+
 # salvando a figura
 fig.savefig(destiny+'plot_molecules.pdf', dpi=fig.dpi)
 fig.savefig(destiny+'plot_molecules.png', dpi=fig.dpi)
